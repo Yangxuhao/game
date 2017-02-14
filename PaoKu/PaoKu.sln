@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9F57DA5E-33DC-F3D4-FB8B-08FBA853AAE8}") = "PaoKu", "Assembly-UnityScript.unityproj", "{9A9232C4-04D1-96E4-507A-7FCCE153DC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9232C4-04D1-96E4-507A-7FCCE153DC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9232C4-04D1-96E4-507A-7FCCE153DC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9232C4-04D1-96E4-507A-7FCCE153DC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9232C4-04D1-96E4-507A-7FCCE153DC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
