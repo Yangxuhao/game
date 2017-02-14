@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\code\spongy.js">
+    <Files>
+      <File FileName="Assets\code\spongy.js" Line="31" Column="3" />
+      <File FileName="Assets\gerim.js" Line="17" Column="30" />
+      <File FileName="Assets\code\germ.js" Line="11" Column="28" />
+      <File FileName="Assets\code\acid.js" Line="1" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
