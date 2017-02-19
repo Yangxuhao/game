@@ -1,0 +1,5 @@
+<linker>
+<assembly fullname="Assembly-UnityScript">
+<type fullname="SpaceBuddy" preserve="all"/>
+</assembly>
+</linker>

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6C40F051-C76C-420D-63AE-9B4D8B22A272}") = "Space_Buddy", "Assembly-UnityScript.unityproj", "{4CFFE667-E498-1ABB-FFF3-4E14E324E2E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CFFE667-E498-1ABB-FFF3-4E14E324E2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFFE667-E498-1ABB-FFF3-4E14E324E2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFFE667-E498-1ABB-FFF3-4E14E324E2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFFE667-E498-1ABB-FFF3-4E14E324E2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
